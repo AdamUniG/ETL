@@ -1,0 +1,13 @@
+1. implement the photos
+	a. find the cell sizes from bbox 
+	b. pad with 0000 to the larges OK size
+2. things to look out for
+	a. K-means - ROi is noob doesn't know Random forest
+	b. ADABOOST
+	c. KNN
+	d.convolution - not overkill its a tiny pic not very important
+3. inversion + rotation for more friends only 90*
+4. 
+	
+	
+	
